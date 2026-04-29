@@ -124,7 +124,7 @@ jobs:
           set -e
           TREE_FILE="tree.md"
           RELEASES_DIR="releases"
-          CURRENT_REPO="Ehs6n/LatestReleaseMirror"
+          CURRENT_REPO="__REPO_FULL__"
           echo "# Releases Structure" > "$TREE_FILE"
           echo "" >> "$TREE_FILE"
           echo '```' >> "$TREE_FILE"
@@ -153,6 +153,9 @@ jobs:
           done
           echo '```' >> "$TREE_FILE"
           GENERATOR
+          REPO_FULL="${{ github.repository }}"
+          sed -i "s|__REPO_FULL__|$REPO_FULL|g" generate-tree.sh
+          
           chmod +x generate-tree.sh
           ./generate-tree.sh
           git add tree.md
@@ -213,7 +216,7 @@ jobs:
                 sm=$(echo "scale=1; $size / 1048576" | bc)
                 s="${sm} MB"
               fi
-              link="https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/$asset_path"
+              link="https://raw.githubusercontent.com/${{ github.repository }}/main/$asset_path"
               echo "| \`$asset\` | $s | [⬇️ Download]($link) |" >> "$TABLE"
             done
           done
