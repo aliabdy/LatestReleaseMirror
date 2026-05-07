@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="code3-dev--ccloud"></div>
 
+### code3-dev--CCloud
+
+🔗 [source](https://github.com/code3-dev/CCloud) – [<code><small>v2.0.0</small></code>](https://github.com/code3-dev/CCloud/releases/tag/v2.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `CCloud-universal.apk` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/code3-dev/CCloud/CCloud-universal.apk) |
 <!-- RELEASES_END -->
