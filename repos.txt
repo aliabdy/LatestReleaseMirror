@@ -4,3 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 code3-dev/CCloud
 GFW-knocker/MahsaNG
+iampedii/WhiteDNS
