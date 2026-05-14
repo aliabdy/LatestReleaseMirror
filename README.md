@@ -188,20 +188,106 @@ sha256sum FILE_NAME
 
 ### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.2.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.3.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.3.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.2.0-universal.apk` | 16.3 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk) |
-| `WhiteDNS-1.2.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk.idsig) |
-| `WhiteDNS-1.2.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk) |
-| `WhiteDNS-1.2.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk.idsig) |
-| `WhiteDNS-1.2.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk) |
-| `WhiteDNS-1.2.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk.idsig) |
+| `WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.3.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk) |
+| `WhiteDNS-1.3.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.3.0-armeabi-v7a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.3.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.3.0-universal.apk` | 16.4 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk) |
+| `WhiteDNS-1.3.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk.idsig) |
+| `WhiteDNS-1.3.0-x86.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk) |
+| `WhiteDNS-1.3.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk.idsig) |
+| `WhiteDNS-1.3.0-x86_64.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk) |
+| `WhiteDNS-1.3.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk.idsig) |
+
+---
+
+<div id="nullroute1970--stormdns"></div>
+
+### nullroute1970--StormDNS
+
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.13.223445-87348df</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.13.223445-87348df)
+
+| File | Size | Download |
+|------|------|----------|
+| `SHA256SUMS.txt` | 10 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/SHA256SUMS.txt) |
+| `StormDNS_Client_Linux-Legacy_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.tar.gz) |
+| `StormDNS_Client_Linux-Legacy_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_AMD64.zip) |
+| `StormDNS_Client_Linux-Legacy_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.tar.gz) |
+| `StormDNS_Client_Linux-Legacy_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux-Legacy_ARM64.zip) |
+| `StormDNS_Client_Linux_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.tar.gz) |
+| `StormDNS_Client_Linux_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.zip) |
+| `StormDNS_Client_Linux_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.tar.gz) |
+| `StormDNS_Client_Linux_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARM64.zip) |
+| `StormDNS_Client_Linux_ARMV5.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.tar.gz) |
+| `StormDNS_Client_Linux_ARMV5.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV5.zip) |
+| `StormDNS_Client_Linux_ARMV6.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.tar.gz) |
+| `StormDNS_Client_Linux_ARMV6.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV6.zip) |
+| `StormDNS_Client_Linux_ARMV7.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.tar.gz) |
+| `StormDNS_Client_Linux_ARMV7.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_ARMV7.zip) |
+| `StormDNS_Client_Linux_MIPS.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.tar.gz) |
+| `StormDNS_Client_Linux_MIPS.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS.zip) |
+| `StormDNS_Client_Linux_MIPS64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.tar.gz) |
+| `StormDNS_Client_Linux_MIPS64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64.zip) |
+| `StormDNS_Client_Linux_MIPS64LE.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.tar.gz) |
+| `StormDNS_Client_Linux_MIPS64LE.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPS64LE.zip) |
+| `StormDNS_Client_Linux_MIPSLE.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.tar.gz) |
+| `StormDNS_Client_Linux_MIPSLE.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_MIPSLE.zip) |
+| `StormDNS_Client_Linux_RISCV64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.tar.gz) |
+| `StormDNS_Client_Linux_RISCV64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_RISCV64.zip) |
+| `StormDNS_Client_Linux_X86.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.tar.gz) |
+| `StormDNS_Client_Linux_X86.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_X86.zip) |
+| `StormDNS_Client_MacOS_AMD64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.tar.gz) |
+| `StormDNS_Client_MacOS_AMD64.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_AMD64.zip) |
+| `StormDNS_Client_MacOS_ARM64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.tar.gz) |
+| `StormDNS_Client_MacOS_ARM64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_MacOS_ARM64.zip) |
+| `StormDNS_Client_Termux_ARM64.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
+| `StormDNS_Client_Termux_ARM64.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
+| `StormDNS_Client_Termux_ARMV7.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.tar.gz) |
+| `StormDNS_Client_Termux_ARMV7.zip` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARMV7.zip) |
+| `StormDNS_Client_Windows_AMD64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+| `StormDNS_Client_Windows_ARM64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_ARM64.zip) |
+| `StormDNS_Client_Windows_X86.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_X86.zip) |
+| `StormDNS_Server_Linux-Legacy_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.tar.gz) |
+| `StormDNS_Server_Linux-Legacy_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_AMD64.zip) |
+| `StormDNS_Server_Linux-Legacy_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.tar.gz) |
+| `StormDNS_Server_Linux-Legacy_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux-Legacy_ARM64.zip) |
+| `StormDNS_Server_Linux_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.tar.gz) |
+| `StormDNS_Server_Linux_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_AMD64.zip) |
+| `StormDNS_Server_Linux_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.tar.gz) |
+| `StormDNS_Server_Linux_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARM64.zip) |
+| `StormDNS_Server_Linux_ARMV5.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.tar.gz) |
+| `StormDNS_Server_Linux_ARMV5.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV5.zip) |
+| `StormDNS_Server_Linux_ARMV6.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.tar.gz) |
+| `StormDNS_Server_Linux_ARMV6.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV6.zip) |
+| `StormDNS_Server_Linux_ARMV7.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.tar.gz) |
+| `StormDNS_Server_Linux_ARMV7.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_ARMV7.zip) |
+| `StormDNS_Server_Linux_MIPS.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.tar.gz) |
+| `StormDNS_Server_Linux_MIPS.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS.zip) |
+| `StormDNS_Server_Linux_MIPS64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.tar.gz) |
+| `StormDNS_Server_Linux_MIPS64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64.zip) |
+| `StormDNS_Server_Linux_MIPS64LE.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.tar.gz) |
+| `StormDNS_Server_Linux_MIPS64LE.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPS64LE.zip) |
+| `StormDNS_Server_Linux_MIPSLE.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.tar.gz) |
+| `StormDNS_Server_Linux_MIPSLE.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_MIPSLE.zip) |
+| `StormDNS_Server_Linux_RISCV64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.tar.gz) |
+| `StormDNS_Server_Linux_RISCV64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_RISCV64.zip) |
+| `StormDNS_Server_Linux_X86.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.tar.gz) |
+| `StormDNS_Server_Linux_X86.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Linux_X86.zip) |
+| `StormDNS_Server_MacOS_AMD64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.tar.gz) |
+| `StormDNS_Server_MacOS_AMD64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_AMD64.zip) |
+| `StormDNS_Server_MacOS_ARM64.tar.gz` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.tar.gz) |
+| `StormDNS_Server_MacOS_ARM64.zip` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_MacOS_ARM64.zip) |
+| `StormDNS_Server_Termux_ARM64.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.tar.gz) |
+| `StormDNS_Server_Termux_ARM64.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARM64.zip) |
+| `StormDNS_Server_Termux_ARMV7.tar.gz` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.tar.gz) |
+| `StormDNS_Server_Termux_ARMV7.zip` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Termux_ARMV7.zip) |
+| `StormDNS_Server_Windows_AMD64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_AMD64.zip) |
+| `StormDNS_Server_Windows_ARM64.zip` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_ARM64.zip) |
+| `StormDNS_Server_Windows_X86.zip` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_X86.zip) |
 <!-- RELEASES_END -->
