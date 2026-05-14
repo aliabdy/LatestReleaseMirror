@@ -290,4 +290,16 @@ sha256sum FILE_NAME
 | `StormDNS_Server_Windows_AMD64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_AMD64.zip) |
 | `StormDNS_Server_Windows_ARM64.zip` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_ARM64.zip) |
 | `StormDNS_Server_Windows_X86.zip` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_X86.zip) |
+
+---
+
+<div id="shirokhorshid--shirokhorshid-android"></div>
+
+### shirokhorshid--shirokhorshid-android
+
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
+
+| File | Size | Download |
+|------|------|----------|
+| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
 <!-- RELEASES_END -->
