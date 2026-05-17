@@ -161,14 +161,14 @@ sha256sum FILE_NAME
 
 ### GFW-knocker--MahsaNG
 
-🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v15-(1405-1-22)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v15-(1405-1-22))
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_15_arm64-v8a.apk` | 51.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_arm64-v8a.apk) |
-| `MahsaNG_15_armeabi-v7a.apk` | 52.3 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_armeabi-v7a.apk) |
-| `MahsaNG_15_x86.apk` | 55.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86.apk) |
-| `MahsaNG_15_x86_64.apk` | 54.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_15_x86_64.apk) |
+| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
+| `MahsaNG_16_armeabi-v7a.apk` | 60.3 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_armeabi-v7a.apk) |
+| `MahsaNG_16_x86.apk` | 63.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86.apk) |
+| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
 
 ---
 
@@ -188,22 +188,22 @@ sha256sum FILE_NAME
 
 ### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.3.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.3.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.4.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.3.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk) |
-| `WhiteDNS-1.3.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.3.0-armeabi-v7a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.3.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.3.0-universal.apk` | 16.4 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk) |
-| `WhiteDNS-1.3.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-universal.apk.idsig) |
-| `WhiteDNS-1.3.0-x86.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk) |
-| `WhiteDNS-1.3.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86.apk.idsig) |
-| `WhiteDNS-1.3.0-x86_64.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk) |
-| `WhiteDNS-1.3.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.3.0-x86_64.apk.idsig) |
+| `WhiteDNS-1.4.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.4.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk) |
+| `WhiteDNS-1.4.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.4.0-armeabi-v7a.apk` | 5.1 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.4.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.4.0-universal.apk` | 16.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk) |
+| `WhiteDNS-1.4.0-universal.apk.idsig` | 142 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk.idsig) |
+| `WhiteDNS-1.4.0-x86.apk` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk) |
+| `WhiteDNS-1.4.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk.idsig) |
+| `WhiteDNS-1.4.0-x86_64.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk) |
+| `WhiteDNS-1.4.0-x86_64.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/aliabdy/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk.idsig) |
 
 ---
 
