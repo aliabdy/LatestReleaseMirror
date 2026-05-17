@@ -7,3 +7,4 @@ GFW-knocker/MahsaNG
 iampedii/WhiteDNS
 nullroute1970/StormDNS
 shirokhorshid/shirokhorshid-android
+GFW-knocker/MahsaNG
